@@ -3,9 +3,6 @@ const projects = [
 		name: 'amazing-mountain'
 	},
 	{
-		name: 'automotive-car-design'
-	},
-	{
 		name: 'band-responsive'
 	},
 	{
@@ -69,7 +66,7 @@ projects.forEach(({ name }, i) => {
 			<a href="${name}/index.html" class="blue">
 				<i class="fas fa-eye"></i>
 			</a>
-			<a href="https://github.com/gavin-crowley/html-css-reference/tree/main/${name}" class="github">
+			<a href="https://github.com/gavin-crowley/reference-powell/tree/main/${name}" class="github">
 				<i class="fab fa-github"></i>
 			</a>
 		</div>
