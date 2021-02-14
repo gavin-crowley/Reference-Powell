@@ -47,8 +47,90 @@ const projects = [
 	{
 		name: 'bc-6.1-jake'
 	},
-
-
+	{
+		name: 'brewery-website'
+	},
+	{
+		name: 'conq-nav-challenge'
+	},
+	{
+		name: 'conq-responsive-made-easy'
+	},
+	{
+		name: 'demyst-blog-page'
+	},
+	{
+		name: 'demyst-overlooked'
+	},
+	{
+		name: 'demyst-magic-design-v4'
+	},
+	{
+		name: 'demyst-final-project-home'
+	},
+	{
+		name: 'demyst-final-project-home-blog'
+	},
+	{
+		name: 'extra-flex-card'
+	},
+	{
+		name: 'extra-grid-card'
+	},
+	{
+		name: 'fun-with-transforms'
+	},
+	{
+		name: 'hcn-redesign'
+	},
+	{
+		name: 'mars-weather-app'
+	},
+	{
+		name: 'mobile-first-for-the-win'
+	},
+	{
+		name: 'navbar-change-on-scroll'
+	},
+	{
+		name: 'popdog-card-clone'
+	},
+	{
+		name: 'portfolio-with-css-grid'
+	},
+	{
+		name: 'responsive-design-patterns'
+	},
+	{
+		name: 'responsive-from-scratch'
+	},
+	{
+		name: 'responsive-start-to-finish'
+	},
+	{
+		name: 'scrimba-portfolio'
+	},
+	{
+		name: 'shoes'
+	},
+	{
+		name: 'slide-in-with-intersection-observer'
+	},
+	{
+		name: 'style-stage'
+	},
+	{
+		name: 'the-band'
+	},
+	{
+		name: 'the-box'
+	},
+	{
+		name: 'the-picture-element'
+	},
+	{
+		name: 'todo-list-collab'
+	},
 ];
 
 const list = document.getElementById('list');
